@@ -16,6 +16,9 @@
 5. Kết thúc cả 10 màn chơi thì Pac sẽ được giải thoát khỏi mê cung.
 ### Các chức năng 
 
+![image](https://github.com/Linhchi162/ImageForPacCat/assets/124993115/83bee17e-081d-44c1-95ab-31b88b118941)
+
+
 -Trong màn hình menu bao gồm :
 + Button để bắt đầu trò chơi.
 + Button để bật tắt âm thanh.
