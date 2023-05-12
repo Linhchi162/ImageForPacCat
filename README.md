@@ -2,6 +2,7 @@
 - Trần Linh Chi
 - MSV: 22026564
 ### Giới thiệu 
+![](https://github.com/Linhchi162/ImageForPacCat/blob/main/Preview2.gif?raw=true)
 - Nội dung Game: Một con mèo tên là Pac ![Pac](https://github.com/Linhchi162/ImageForPacCat/blob/main/Asset%201.png?raw=true) đột nhiên lạc vào mê cung và không thể tìm được lối ra. Mê cung bao gồm rất nhiều hộp đựng đồ vật đang chen lấn trên đường đi của Pac. Hãy giúp Pac đẩy các hộp đúng vị trí để tìm được lối thoát khỏi mê cung.
 - PacCat là một trò chơi giải đố được phát triển bằng ngôn ngữ C++ và thư viện SDL2, lấy cảm hứng từ trò chơi Sokoban. Trong trò chơi, người chơi sẽ nhập vai vào một chú mèo tên Pac và điều khiển nó đẩy các hộp vào các ô đích để hoàn thành màn chơi. Trò chơi có độ khó tăng dần khi tiến đến các màn chơi mới và người chơi cần suy nghĩ để đưa ra các chiến lược để hoàn thành các màn chơi.
 
